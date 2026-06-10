@@ -133,7 +133,7 @@ Fill in the form fields:
 ### Sample Employee Entry:
 ```
 Employee ID: EMP001
-Employee Name: John Doe
+Employee Name: Elisha Muthomi
 Basic Salary: 50000
 Allowances: 5000
 Tax Rate (%): 15
